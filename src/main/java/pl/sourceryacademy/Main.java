@@ -14,12 +14,12 @@ public class Main {
             System.out.println(s + " ");
         }
 
-        System.out.println("Old fizzBuzz");
+/*        System.out.println("Old fizzBuzz");
         List<String> result = fizzBuzz(n);
         for (String s: result) {
             System.out.println("FizzBuzz");
             System.out.println(s + " ");
-        }
+        }*/
     }
 }
 
